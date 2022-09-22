@@ -11,4 +11,4 @@ data user's input will be entered into (database) simple array javascript, befor
 - JavaScript DOM (Document Object Model)
 - JavaScript Variables
 
-#This program uses ES6 JavaScipt
+#This program uses ES6 JavaScript
